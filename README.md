@@ -38,7 +38,6 @@ Through this project, I practiced:
 - Positioning GUI components with setBounds()
 - Customizing colors, fonts, and layouts
 - Handling button clicks with ActionListener
-- Implementing hover effects with MouseAdapter
 - Managing and uploading projects using Git and GitHub
 
 ## 🌸 Future Improvements
